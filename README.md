@@ -25,7 +25,8 @@ In root of proyect
 `$ npm install`
 
 Run WebPack
-`$npm run watch`
+
+`$ npm run watch`
 
 ### Open Project
 `http://localhost/CodeIgniter-Vue-Blade-Eloquent/`
