@@ -12,12 +12,14 @@ Codeigniter Framework making use of Blade, Vuejs and Eloquent
 
 Install composer dependencies
 In root of proyect
+
 `$ cd application`
 
 `$ composer install`
 
 Install node dependencies
 In root of proyect
+
 `$ cd assets`
 
 `$ npm install`
