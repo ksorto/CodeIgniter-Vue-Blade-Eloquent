@@ -10,17 +10,19 @@ Codeigniter Framework making use of Blade, Vuejs and Eloquent
 
 `$ git clone https://github.com/ksortof/CodeIgniter-Vue-Blade-Eloquent.git`
 
-Install composer dependencies
+Install composer dependencies.
+
 In root of proyect
 
-`$ cd application`
+`$ cd application/`
 
 `$ composer install`
 
-Install node dependencies
+Install node dependencies.
+
 In root of proyect
 
-`$ cd assets`
+`$ cd assets/`
 
 `$ npm install`
 
